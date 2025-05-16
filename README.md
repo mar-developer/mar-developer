@@ -4,7 +4,6 @@ Innovative software engineer passionate about crafting engaging, accessible, and
 
 [![Gmail](https://img.shields.io/badge/email-enteriarv@gmail.com-red?logo=gmail)](mailto:enteriarv@gmail.com)<br>
 [![Phone](https://img.shields.io/badge/phone-%2B63%20935--277--8596-blue)](tel:+639352778596)<br>
-[![GitHub](https://img.shields.io/badge/GitHub-mar--developer-181717?logo=github)](https://github.com/mar-developer)<br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-mar--developer.github.io%2FReymar-blueviolet)](https://mar-developer.github.io/Reymar)
 
 ---
