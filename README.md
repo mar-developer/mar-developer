@@ -2,10 +2,10 @@
 
 Innovative software engineer passionate about crafting engaging, accessible, and high-performance digital experiences. With a proven track record across Swiss, Australian, and global tech companies, I specialize in building robust front-end and full-stack solutions that delight users and empower teams. From leading complex migrations and architecting scalable systems to collaborating with cross-functional experts, I thrive on transforming ideas into impactful products—always with a focus on usability, accessibility, and modern best practices.
 
-<a href="mailto:enteriarv@gmail.com" title="Email"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="32" height="32"/></a><br>
-<a href="tel:+639352778596" title="Phone"><img src="https://img.icons8.com/ios-filled/50/000000/phone.png" alt="Phone" width="32" height="32"/></a><br>
-<a href="https://www.linkedin.com/in/reymar-enteria/" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/></a><br>
-<a href="https://mar-developer.github.io/Reymar" title="Portfolio"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" width="32" height="32"/></a>
+[![Gmail](https://img.shields.io/badge/email-enteriarv@gmail.com-red?logo=gmail)](mailto:enteriarv@gmail.com)<br>
+[![Phone](https://img.shields.io/badge/phone-%2B63%20935--277--8596-blue)](tel:+639352778596)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-reymar--enteria-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/reymar-enteria/)<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-mar--developer.github.io%2FReymar-blueviolet)](https://mar-developer.github.io/Reymar)
 
 ---
 
